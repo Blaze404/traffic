@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/debba.iml" filepath="$PROJECT_DIR$/.idea/debba.iml" />
+      <module fileurl="file://D:/freelance/rubik/rubiks_cube-master/.idea/rubiks_cube-master.iml" filepath="D:/freelance/rubik/rubiks_cube-master/.idea/rubiks_cube-master.iml" />
+    </modules>
+  </component>
+</project>
